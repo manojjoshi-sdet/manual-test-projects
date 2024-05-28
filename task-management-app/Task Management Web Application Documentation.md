@@ -71,7 +71,7 @@ The Task Management Web Application is a simple, client-side application that al
 
 1\. Clone the repository:
 
-- git clone https://github.com/yourusername/task-management-app.git
+- git clone https://github.com/manojjoshi-sdet/manual-test-projects.git
 
 2\. Navigate to the project directory:
 
