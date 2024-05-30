@@ -1,0 +1,25 @@
+1. Validating User First name field with valid input
+2. Validating User Surname field with valid input
+3. Validating User Mobile number with valid mobile number format if creating account with mobile number.
+4. Validating User email with valid email input if creating account with email.
+5. Validating Password field if it matches the valid password criteria.
+6. Validating Date of Birth field if it matches the age criteria.
+7. Validating Gender field if the user selected the valid option. 
+8. Validating if 'Sign Up' Button functions as per specification.
+9. Validating if the 'Already have an account' hyperlink redirect to 'Login Page'.
+10. Validating User First name field with invalid input.
+11. Validating User Surname field with invalid input.
+12. Validating User Mobile number with invalid number input.
+13. Validating User email with invalid email input.
+14. Validating Password field with invalid password input.
+15. Validating Date of Birth field with invalid age criteria input.
+16. Validating Gender field with invalid options
+17. Validating 'Sign up' button with providing registration form with invalid input data.
+18. Validating error message display
+19. Validating user registration process with different language.
+20. Validating 'learn more' hyperlink redirect to valid webpage.
+21. Validating 'terms' hyperlink redirect to valid webpage.
+22. Validating 'privacy policy'  hyperlink redirect to valid webpage.
+23. Validating 'cookies policy' hyperlink redirect to valid webpage.
+24. Validating 'account creation' form without inputing any valid input to if it provide valid error messages.
+
