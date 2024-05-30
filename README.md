@@ -8,4 +8,4 @@ This repository contains a collection of manual testing projects designed for se
 @Objective      : Manually test a simple Task Management web application <br/>
 
 @Project name   : Facebook <br/>
-@Objective      : Manually test a facebook SignUp and Login Functionality <br/>
+@Objective      : Manually test facebook SignUp and Login Functionality <br/>
